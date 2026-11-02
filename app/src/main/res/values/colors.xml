@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_navy">#0A192F</color>
+    <color name="surface_navy">#112240</color>
+    <color name="gold_accent">#F4C430</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_secondary">#8892B0</color>
+</resources>
