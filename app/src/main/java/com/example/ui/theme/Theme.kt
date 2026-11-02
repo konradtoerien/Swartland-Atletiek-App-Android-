@@ -22,6 +22,10 @@ val TextMuted = Color(0xFF8892B0)
 val CardBackground = Color(0xFF112240)
 val AccentGreen = Color(0xFF4CAF50)
 val AccentRed = Color(0xFFEF5350)
+val SilverAccent = Color(0xFFC0C0C0)
+val BronzeAccent = Color(0xFFCD7F32)
+val BoyBlue = Color(0xFF1E3A8A)
+val GirlPink = Color(0xFF831843)
 
 private val DarkColorScheme = darkColorScheme(
     primary = GoldAccent,
